@@ -1,0 +1,14 @@
+.Person {
+  width: 1200px;
+  float: left;
+  /* margin: 0 auto; */
+}
+.singlePerson {
+  width: 300px;
+  height: 200px;
+  border: 1px solid #919090;
+  padding: 10px;
+  margin: 10px;
+  background: #919090;
+  display: inline-block;
+}
